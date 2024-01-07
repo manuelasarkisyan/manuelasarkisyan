@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Manuela Sarkisyan
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning HTML & CSS and Angular
+- 💞️ I’m looking to collaborate on JavaScript Projects
+- 📫 How to reach me manuelasarkisyan@gmail.com
